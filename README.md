@@ -7,11 +7,20 @@ No, I don't feel pain every timer tick 🩸🗡️⏲️, and I really love C++!
 
 <h2>📫 How to reach me:</h2>
 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin-circled--v1.png)][linkedin]
-[![Reddit](https://img.icons8.com/color/48/000000/reddit.png)][reddit]
-[![StackOverflow](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png)][stackoverflow]
-[![Telegram](https://img.icons8.com/color/48/000000/telegram-app--v4.png)][telegram]
-<!-- [![Yandex.Mail](https://img.icons8.com/doodle/48/000000/yandex-international.png)](rusan.rusik@yandex.ru) -->
+<p align="center">
+ <a href="https://www.linkedin.com/in/gollan/">
+  <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" />
+ </a>
+ <a href="https://stackoverflow.com/users/13163077/ruslan-golovinsky">
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" alt="StackOverflow" />
+ </a>
+ <a href="https://t.me/gollan/">
+  <img src="https://img.icons8.com/color/48/000000/telegram-app--v4.png" alt="Telegram" />
+ </a>
+</p>
+<p align="center">
+  <img src="https://img.icons8.com/doodle/48/000000/yandex-international.png" alt="Yandex.Mail"> <a href = "mailto: rusan.rusik@yandex.ru">rusan.rusik<a> </img>
+</p>
 
 <h2>⚒️ I'm a collaborator of these repositories:</h2>
  
@@ -19,13 +28,6 @@ No, I don't feel pain every timer tick 🩸🗡️⏲️, and I really love C++!
  - [cppfsm](https://github.com/eglimi/cppfsm.git)
  - [AwesomeCppGameDev](https://github.com/Caerind/AwesomeCppGameDev.git)
 
-
-
-
-[linkedin]: https://www.linkedin.com/in/gollan/
-[reddit]: https://www.reddit.com/user/GRPilot
-[stackoverflow]: https://stackoverflow.com/users/13163077/ruslan-golovinsky
-[telegram]: https://t.me/gollan
 
 [mylove]: https://mytona.ru/
 
