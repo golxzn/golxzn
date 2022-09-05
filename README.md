@@ -8,10 +8,11 @@ No, I don't feel pain every timer tick 🩸🗡️⏲️, and I really love C++!
 <h2>📫 How to reach me:</h2>
 
 <p align="left">
- <a href="https://www.linkedin.com/in/gollan/"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" /></a>
+ <a href="https://www.linkedin.com/in/golxzn/"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" /></a>
  <a href="https://stackoverflow.com/users/13163077/ruslan-golovinsky"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" alt="StackOverflow" /></a>
- <a href="https://t.me/gollan/"><img src="https://img.icons8.com/color/48/000000/telegram-app--v4.png" alt="Telegram" /></a>
- <a href = "mailto: rusan.rusik@yandex.ru"><img src="https://img.icons8.com/doodle/48/000000/yandex-international.png" alt="Yandex.Mail"></img></a>
+ <a href="https://t.me/golxzn/"><img src="https://img.icons8.com/color/48/000000/telegram-app--v4.png" alt="Telegram" /></a>
+ <a href = "mailto: rusan.rusik@yandex.ru"><img src="https://img.icons8.com/doodle/48/000000/yandex-international.png" alt="Yandex.Mail" /></a>
+ <a href = "mailto: golxzn@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/google-logo.png" alt="gmail" /></a>
 </p>
 
 <h2>⚒️ I'm a collaborator of these repositories:</h2>
