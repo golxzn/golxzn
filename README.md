@@ -1,8 +1,8 @@
-<h2>Aw, It's so embarrassing you interesting in my GitHub page👉👈</h2>
+<h2>Aw, It's so embarrassing you're interesting in my GitHub page👉👈</h2>
 
 Anyway, I'm a C++ Game Developer.<br>
-No, I don't feel pain every timer tick 🩸🗡️⏲️, and I really love C++!<br>
-🎮 I’m currently working on [CookingDiary][cd_main] ([GooglePlay][cd_gp], [AppStore][cd_as], [Amazone appstore][cd_amaz], [Microsoft store][cd_ms]) game at [MyTona 🏢][mylove]<br>
+No, I don't feel pain every timer tick (maybe) 🩸🗡️⏲️, and I really love C++!<br>
+🎮 I’m currently working on [CookingDiary][cd_main] ([GooglePlay][cd_gp], [AppStore][cd_as], [Amazone appstore][cd_amaz], [Microsoft store][cd_ms]) game at the [MyTona 🏢][mylove]<br>
 🌱 I’m learning some graphics programming and trying make my own game engine, but, not now... 🏑<br>
 
 <h2>📫 How to reach me:</h2>
