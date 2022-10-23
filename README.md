@@ -21,6 +21,9 @@ No, I don't feel pain every timer tick (maybe) 🩸🗡️⏲️, and I really l
  - [cppfsm](https://github.com/eglimi/cppfsm.git)
  - [AwesomeCppGameDev](https://github.com/Caerind/AwesomeCppGameDev.git)
 
+<h2>Now I'm working on:</h2>
+
+ - [CuteEco](https://github.com/CuteEco)
 
 [mylove]: https://mytona.ru/
 
