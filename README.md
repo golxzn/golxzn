@@ -5,25 +5,24 @@ No, I don't feel pain every timer tick (maybe) 🩸🗡️⏲️, and I really l
 🎮 I’m currently working on [CookingDiary][cd_main] ([GooglePlay][cd_gp], [AppStore][cd_as], [Amazone appstore][cd_amaz], [Microsoft store][cd_ms]) game at the [MyTona 🏢][mylove]<br>
 🌱 I’m learning some graphics programming and trying make my own game engine, but, not now... 🏑<br>
 
-<h2>📫 How to reach me:</h2>
-
-<p align="left">
- <a href="https://www.linkedin.com/in/golxzn/"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" /></a>
- <a href="https://stackoverflow.com/users/13163077/ruslan-golovinsky"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" alt="StackOverflow" /></a>
- <a href="https://t.me/golxzn/"><img src="https://img.icons8.com/color/48/000000/telegram-app--v4.png" alt="Telegram" /></a>
- <a href = "mailto: rusan.rusik@yandex.ru"><img src="https://img.icons8.com/doodle/48/000000/yandex-international.png" alt="Yandex.Mail" /></a>
- <a href = "mailto: golxzn@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/google-logo.png" alt="gmail" /></a>
-</p>
-
 <h2>⚒️ I'm a collaborator of these repositories:</h2>
  
  - [meov](https://github.com/seigtm/meov)
  - [cppfsm](https://github.com/eglimi/cppfsm.git)
  - [AwesomeCppGameDev](https://github.com/Caerind/AwesomeCppGameDev.git)
 
-<h2>Now I'm working on:</h2>
+<h2>💻Now I'm working on:</h2>
 
  - [CuteEco](https://github.com/CuteEco)
+
+<h2>📫 How to reach me:</h2>
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/golxzn/"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" /></a>
+ <a href="https://stackoverflow.com/users/13163077/ruslan-golovinsky"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" alt="StackOverflow" /></a>
+ <a href="https://t.me/golxzn/"><img src="https://img.icons8.com/color/48/000000/telegram-app--v4.png" alt="Telegram" /></a>
+ <a href = "mailto: golxzn@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/google-logo.png" alt="gmail" /></a>
+</p>
 
 [mylove]: https://mytona.ru/
 
