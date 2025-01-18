@@ -2,10 +2,11 @@
 
 Anyway, I'm a C++ Game Developer, more focusing on engines, ecosystems and tools development.<br>
 No, I don't feel pain every timer tick (maybe) 🩸🗡️⏲️, and I really love C++ and Game Engine Development!<br>
+Trying to merge a fast development, efficiency and a beauty of code. Some day I'll make a good enough game engine 💭✨🌙
 
 🎮 I’m currently working on [CookingDiary][cd_main] ([GooglePlay][cd_gp], [AppStore][cd_as], [Amazone Store][cd_amaz], [Microsoft Store][cd_ms]) game at the [MyTona 🏢][mylove]<br>
 
-<h2>📫 How to reach me:</h2>
+<hr>
 
 <p align="center">
  <a href="https://t.me/golxzn/"><img src="https://img.icons8.com/color/48/000000/telegram-app--v4.png" alt="Telegram" /></a>
