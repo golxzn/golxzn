@@ -10,9 +10,9 @@ No, I don't feel pain every timer tick (maybe) 🩸🗡️⏲️, and I really l
 <p align="center">
  <a href="https://t.me/golxzn/"><img src="https://img.icons8.com/color/48/000000/telegram-app--v4.png" alt="Telegram" /></a>
  <a href="https://www.linkedin.com/in/golxzn/"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" /></a>
- <a href="https://golxzn.github.io/"><img width="48px" src="https://github.com/golxzn/golxzn.github.io/blob/main/assets/logo/gear.gif" alt="[golxzn]" /></a>
+ <a href="https://golxzn.github.io/"><img width="48" height="48" src="https://github.com/golxzn/golxzn.github.io/blob/main/assets/logo/gear.gif" alt="[golxzn]" /></a>
  <a href="https://stackoverflow.com/users/13163077/ruslan-golovinsky"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" alt="StackOverflow" /></a>
- <a href = "mailto: golxzn@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/google-logo.png" alt="gmail" /></a>
+ <a href = "mailto: golxzn@gmail.com"><img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="gmail"/></a>
 </p>
 
 [mylove]: https://mytona.ru/
