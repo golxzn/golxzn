@@ -3,8 +3,9 @@
 Anyway, I'm a C++ Game Developer, more focusing on engines, ecosystems and tools development.<br>
 No, I don't feel pain every timer tick (maybe) 🩸🗡️⏲️, and I really love C++ and Game Engine Development!<br>
 Trying to merge a fast development, efficiency and a beauty of code. Some day I'll make a good enough game engine 💭✨🌙
+But for now I'm making my collegues a little happier by my work 🧌
 
-🎮 I’m currently working on [CookingDiary][cd_main] ([GooglePlay][cd_gp], [AppStore][cd_as], [Amazone Store][cd_amaz], [Microsoft Store][cd_ms]) game at the [MyTona 🏢][mylove]<br>
+🎮 I’m currently working on [Chef & Friends][cf_main] ([GooglePlay][cf_gp], [AppStore][cf_as]) and had been working on [CookingDiary][cd_main] ([GooglePlay][cd_gp], [AppStore][cd_as], [Amazone Store][cd_amaz], [Microsoft Store][cd_ms]) game at the [MyTona 🏢][mylove]<br>
 
 <hr>
 
@@ -17,6 +18,10 @@ Trying to merge a fast development, efficiency and a beauty of code. Some day I'
 </p>
 
 [mylove]: https://mytona.ru/
+
+[cf_main]: https://chefandfriends.game/
+[cf_gp]: https://play.google.com/store/apps/details?id=com.mytona.cheftales&hl=en-US
+[cf_as]: https://cheftales.onelink.me/ZJhZ/rzf1f92u
 
 [cd_main]: https://cookingdiary.game/
 [cd_gp]: https://cooking-diary.onelink.me/PKnG/895ec827
