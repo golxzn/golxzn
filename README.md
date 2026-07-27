@@ -2,10 +2,10 @@
 
 Anyway, I'm a C++ Game/Software Engineer, focusing on engines, ecosystems, and tooling. <br>
 Nope, I'm not experiencing suffering every timer tick (maybe) 🩸🗡️⏲️, and I really love_hate C++ and Game Engine Development!<br>
-Trying to merge a rapid development, efficiency and a beauty of code. Some day I'll make a good enough game engine 💭✨🌙
+Trying to merge a rapid development, efficiency and a beauty of code, without relying on LLMs (LLMs won't help to build required expertise). Some day I'll make a good enough game engine 💭✨🌙
 But for now I'm making my collegues a little happier by my work through my tools and enhancements (or angry) 🧌
 
-🎮 I’m currently working on upcoming project at [MyTona 🏢][mylove]. I had also been involved into [Ravenhill][rh_main] ([GooglePlay][rh_gp], [AppStore][rh_as]), [Chef & Friends][cf_main] ([GooglePlay][cf_gp], [AppStore][cf_as]), and [CookingDiary][cd_main] ([GooglePlay][cd_gp], [AppStore][cd_as], [Amazone Store][cd_amaz], [Microsoft Store][cd_ms]) games, mostly as an optimization & technical stability expert. <br>
+🎮 I’m currently working on [CookingDiary][cd_main] ([GooglePlay][cd_gp], [AppStore][cd_as], [Amazone Store][cd_amaz], [Microsoft Store][cd_ms]) project at [MyTona 🏢][mylove]. I had also been involved into [Ravenhill][rh_main] ([GooglePlay][rh_gp], [AppStore][rh_as]), [Chef & Friends][cf_main] ([GooglePlay][cf_gp], [AppStore][cf_as]), and other unpublished games, mostly as an optimization & technical stability & build systems expert. <br>
 
 <hr>
 
