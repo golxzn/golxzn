@@ -1,3 +1,5 @@
+> 批判は最高の賞賛である。gzn
+
 <h2 align="center">Aw, It's so embarrassing you're interested in my page👉👈</h2>
 
 Anyway, I'm a C++ Game/Software Engineer, focusing on engines, ecosystems, and tooling. <br>
