@@ -7,7 +7,7 @@ Nope, I'm not experiencing suffering every timer tick (maybe) 🩸🗡️⏲️,
 Trying to merge a rapid development, efficiency and a beauty of code, without relying on LLMs (LLMs won't help to build required expertise). Some day I'll make a good enough game engine 💭✨🌙
 But for now I'm making my collegues a little happier by my work through my tools and enhancements (or angry) 🧌
 
-🎮 I’m currently working on [CookingDiary][cd_main] ([GooglePlay][cd_gp], [AppStore][cd_as], [Amazone Store][cd_amaz], [Microsoft Store][cd_ms]) project at [MyTona 🏢][mylove]. I had also been involved into [Ravenhill][rh_main] ([GooglePlay][rh_gp], [AppStore][rh_as]), [Chef & Friends][cf_main] ([GooglePlay][cf_gp], [AppStore][cf_as]), and other unpublished games, mostly as an optimization & technical stability & build systems expert. <br>
+🎮 I had been working on [CookingDiary][cd_main] ([GooglePlay][cd_gp], [AppStore][cd_as], [Amazone Store][cd_amaz], [Microsoft Store][cd_ms]) project at [MyTona 🏢][mylove] last 5 years. I had also been involved into [Ravenhill][rh_main] ([GooglePlay][rh_gp], [AppStore][rh_as]), [Chef & Friends][cf_main] ([GooglePlay][cf_gp], [AppStore][cf_as]), and other unpublished games, mostly as an optimization & technical stability & build systems expert. <br>
 
 <hr>
 
